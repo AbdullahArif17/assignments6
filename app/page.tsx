@@ -5,9 +5,9 @@ import Main from "@/components/Main/page";
 export default function Home() {
   return (
     <div>
-      <Header/>
-      <Nav/>
-      <Main/>
+      <Header />
+      <Nav />
+      <Main />
     </div>
   );
 }
