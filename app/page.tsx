@@ -1,6 +1,7 @@
 import Header from "@/components/Header/page"; 
 import Nav from "@/components/Nav/page";
 import Main from "@/components/Main/page";
+import SecOne from "@/components/Section1/page";
 
 export default function Home() {
   return (
@@ -8,6 +9,7 @@ export default function Home() {
       <Header />
       <Nav />
       <Main />
+      <SecOne />
     </div>
   );
 }
